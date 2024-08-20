@@ -8,6 +8,15 @@ public class MinhaClasse {
         String nomeCompleto = nomeCompleto (primeiroNome, segundoNome);
 
         System.out.println(nomeCompleto);
+
+
+        //Convertendo valores booleanos
+        
+        boolean variavel = true;
+
+        variavel = !variavel;
+
+        System.out.println(variavel);
     }
 
     public static String nomeCompleto (String primeironome, String segundoNome) {
@@ -15,4 +24,5 @@ public class MinhaClasse {
         return primeironome.concat(" ").concat(segundoNome);
 
     }
+
 }
