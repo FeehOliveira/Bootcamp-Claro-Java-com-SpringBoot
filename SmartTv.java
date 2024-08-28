@@ -4,6 +4,7 @@ public class SmartTv {
     int canal = 1;
     int volume = 20;
 
+
     public void mudarCanal() {
         canal++;
     }
