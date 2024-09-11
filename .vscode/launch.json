@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ExemploDoWhile",
+            "request": "launch",
+            "mainClass": "ExemploDoWhile",
+            "projectName": "Bootcamp-Claro-Java-com-SpringBoot_1049ac2c"
+        },
+        {
+            "type": "java",
             "name": "ResultadoEscolar",
             "request": "launch",
             "mainClass": "ResultadoEscolar",
