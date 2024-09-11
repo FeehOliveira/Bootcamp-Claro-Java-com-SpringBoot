@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ResultadoEscolar",
+            "request": "launch",
+            "mainClass": "ResultadoEscolar",
+            "projectName": "Bootcamp-Claro-Java-com-SpringBoot_1049ac2c"
+        },
+        {
+            "type": "java",
             "name": "Current File",
             "request": "launch",
             "mainClass": "${file}"
